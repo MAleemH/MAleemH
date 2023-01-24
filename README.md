@@ -1,10 +1,14 @@
 ### Hi, I'm Muhammad Aleem 👋
-
-<img width="80%" alt="Welcome Header" src="muhammad aleem.gif" />
+<i>Full-Stack Web Developer</i><br>
+<b>Stack:</b> Bootstrap, JavaScript, and PHP<br>
+Open to new opportunities<br>
+<hr>
 
 **Find Me Around The Web**
 
-
+- Twitter: [@MAleemHashmi1](https://twitter.com/MAleemHashmi1)
+- LinkedIn: [Muhammad Aleem Hashmi](https://www.linkedin.com/in/muhammad-aleem-hashmi-09658a171/)
+<hr>
 
 **About Me**
 
