@@ -31,7 +31,7 @@ Open to new opportunities.
   <img alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-### Software & Tools
+### Softwares & Tools
 
 <div class="d-flex">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
