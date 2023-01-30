@@ -1,8 +1,4 @@
 # Hi, I'm Muhammad Aleem 👋
-<div class="d-flex">
-  <img src="https://komarev.com/ghpvc/?username=MAleemH&label=Profile%20views&color=0e75b6&style=flat" alt="MAleemH" />
-  <img src="https://img.shields.io/github/followers/MAleemH?label=Followers" alt="MAleemH" />
-</div>
 
 <i>Full-Stack Web Developer</i>
 <br>
