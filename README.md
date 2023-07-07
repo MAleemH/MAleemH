@@ -14,7 +14,7 @@ Open to new opportunities.
   <a href="https://twitter.com/MAleemHashmi1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </div>
     
-## Favourite Tools
+## Tech Stack
 
 ### Programming Languages
     
