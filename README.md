@@ -69,6 +69,6 @@ Open to new opportunities.
 
 ## Github Stats
 
-[![Aleem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAleemH&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/MAleemH/MAleemH) <br>
+[![Aleem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAleemH&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/MAleemH/MAleemH)
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MAleemH&theme=tokyonight)](https://github.com/MAleemH/MAleemH) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAleemH&langs_count=10&theme=tokyonight)](https://github.com/MAleemH/MAleemH)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAleemH&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/MAleemH/MAleemH)
