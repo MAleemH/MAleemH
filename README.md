@@ -31,6 +31,7 @@ Open to new opportunities.
   <img alt="React" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
 
 ### Web Development
